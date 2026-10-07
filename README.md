@@ -15,3 +15,6 @@ npm start                  # quét QR bằng Expo Go / nhấn a mở Android emu
 
 Nếu lỗi lạ: `npx expo start -c` (xóa cache).
 Tên app đa ngôn ngữ chỉ hiện trên bản build; Expo Go luôn hiện "Expo Go".
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e8f4c03b-2d64-4175-8f90-fde52f88d55d" />
+
