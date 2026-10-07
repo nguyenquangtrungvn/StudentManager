@@ -1,0 +1,17 @@
+{
+  "expo": {
+    "name": "Student Manager",
+    "slug": "student-manager",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "locales": {
+      "en": "./locales/en.json",
+      "vi": "./locales/vi.json"
+    },
+    "ios": { "supportsTablet": true, "bundleIdentifier": "com.example.studentmanager" },
+    "android": { "package": "com.example.studentmanager" },
+    "web": { "bundler": "metro" },
+    "plugins": ["expo-localization"]
+  }
+}
